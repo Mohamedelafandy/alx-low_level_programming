@@ -3,11 +3,11 @@ i#include <stdlib.h>
 #include <string.h>
 #include "dog.h"
 /**
- * *new_dog - function that creates a new dog.
+ * *new_dog - function that creates a new_dog.
  * @name: name to intialize.
  * @age: age to intialize.
  * @owner: owner to intialize.
- * Return: pointer to the new dog, or NULL if the function fails.
+ * Return: pointer to the new_dog, or NULL if the function fails.
 */
 dog_t *new_dog(char *name, float age, char *owner)
 {
